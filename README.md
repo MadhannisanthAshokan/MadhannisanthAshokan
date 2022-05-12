@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MadhannisanthAshokan
+- 👋 Hi, I’m Madhan aka maddy 😎
 - 👀 I’m interested in app development
 - 🌱 I’m working as an iOS developer
 - 💞️ I’m looking to collaborate on ARkit, and some advanced swift frame works
